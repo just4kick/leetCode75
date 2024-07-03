@@ -6,7 +6,8 @@ public class test {
 //        String bs = (a.length()> b.length())?a:b;
         StringBuffer s= new StringBuffer(b);
 //        System.out.println(a.contains("supey"));
-        System.out.println("TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX".length());
+//        System.out.println("TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX".length());
+        System.out.println(5/2);
     }
 
 }
