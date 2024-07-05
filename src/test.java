@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class test {
     public static void main(String[] args) {
         String a= "superman";
@@ -7,7 +9,11 @@ public class test {
         StringBuffer s= new StringBuffer(b);
 //        System.out.println(a.contains("supey"));
 //        System.out.println("TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX".length());
-        System.out.println(5/2);
+
+        int[] t= {3,4,5};
+        int[] cop=t;
+        cop[0]=10;
+        System.out.println(Arrays.toString(t));
     }
 
 }
