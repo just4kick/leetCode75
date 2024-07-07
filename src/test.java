@@ -10,10 +10,11 @@ public class test {
 //        System.out.println(a.contains("supey"));
 //        System.out.println("TAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXXTAUXX".length());
 
-        int[] t= {3,4,5};
-        int[] cop=t;
-        cop[0]=10;
-        System.out.println(Arrays.toString(t));
+//        int[] t= {3,4,5};
+//        int[] cop=t;
+//        cop[0]=10;
+//        System.out.println(Arrays.toString(t));
+        System.out.println(Integer.MAX_VALUE);
     }
 
 }
