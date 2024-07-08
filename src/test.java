@@ -15,6 +15,7 @@ public class test {
 //        cop[0]=10;
 //        System.out.println(Arrays.toString(t));
         int p=123;
+        int j=0;
         System.out.println(Integer.toString(p).charAt(1));
     }
 
