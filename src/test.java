@@ -14,7 +14,8 @@ public class test {
 //        int[] cop=t;
 //        cop[0]=10;
 //        System.out.println(Arrays.toString(t));
-        System.out.println(Integer.MAX_VALUE);
+        int p=123;
+        System.out.println(Integer.toString(p).charAt(1));
     }
 
 }
