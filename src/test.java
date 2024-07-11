@@ -13,10 +13,11 @@ public class test {
 //        int[] t= {3,4,5};
 //        int[] cop=t;
 //        cop[0]=10;
-//        System.out.println(Arrays.toString(t));
-        int p=123;
-        int j=0;
-        System.out.println(Integer.toString(p).charAt(1));
+////        System.out.println(Arrays.toString(t));
+//        int p=123;
+//        int j=0;
+//        System.out.println(Integer.toString(p).charAt(1));
+        System.out.println(Math.abs(2-3));
     }
 
 }
