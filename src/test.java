@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class test {
     public static void main(String[] args) {
@@ -19,16 +20,30 @@ public class test {
 ////        System.out.println(Integer.toString(p).charAt(1));
 //        System.out.println(Math.abs(2-3));
 
-        String s= "superman";
-        byte[] a=new byte[123], str = new byte[s.length()];
-        a['a']=1;
-        System.out.println(a['a']);
+//        String s= "superman";
+//        byte[] a=new byte[123], str = new byte[s.length()];
+//        a['a']=1;
+//        System.out.println(a['a']);
 //        System.out.println(a['u']);
 
 //        s.getBytes(0, s.length(), str, 0);
 
 //        System.out.println(Arrays.toString("a".getBytes()));
 //        System.out.println(Arrays.toString(a));
+
+
+//    String n="supermans";
+//        int[] count1 = new int['z'+1];
+//        byte[] bytes = new byte[n.length()];
+//        n.getBytes(0, n.length(), bytes, 0);
+//        for (byte b : bytes)  count1[b]++;
+//        System.out.println(Arrays.toString(bytes));
+//        System.out.println(Arrays.toString(count1));
+
+        String p= "superman";
+        int m= Integer.parseInt("100");;
+        System.out.println(m);
+
 
     }
 
