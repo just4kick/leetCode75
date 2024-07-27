@@ -40,10 +40,7 @@ public class test {
 //        System.out.println(Arrays.toString(bytes));
 //        System.out.println(Arrays.toString(count1));
 
-        String p= "superman";
-        int m= Integer.parseInt("100");;
-        System.out.println(m);
-
+        System.out.println((int) 'D');
 
     }
 
