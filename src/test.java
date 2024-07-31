@@ -40,7 +40,7 @@ public class test {
 //        System.out.println(Arrays.toString(bytes));
 //        System.out.println(Arrays.toString(count1));
 
-        System.out.println((int) 'D');
+        System.out.println((5+1)/2);
 
     }
 
